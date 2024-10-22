@@ -3,8 +3,8 @@ local colors = {}
 local defaults = {
   polar_night = {
     origin = "#2E3440", -- nord0
-    bright = "#4d586c", -- nord1
-    brighter = "#616E88", -- nord2
+    bright = "#3B4252", -- nord1
+    brighter = "#434C5E", -- nord2
     brightest = "#707C93", -- nord3
     light = "#808B9F", -- out of palette
   },
